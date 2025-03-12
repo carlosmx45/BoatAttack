@@ -973,11 +973,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 1
-  cloudProjectId: 
+  cloudProjectId: 9bb371dc-2121-4b23-89e3-01e9d3cad5b1
   framebufferDepthMemorylessMode: 2
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: BoatAttack
+  organizationId: carlos_mx45
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
